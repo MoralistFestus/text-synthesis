@@ -1,4 +1,6 @@
 # Text to Speech
+
+<img src="https://raw.githubusercontent.com/MoralistFestus/text-synthesis/master/images (6).jpeg" alt="image">
 A Text To Speech program written with Python programming language.
 The TTS program uses `pyttsx3` library.
 
@@ -30,7 +32,7 @@ engine.runAndWait()
 ```
 This simple program `simple.py` will convert the text to speech.
 
-```
+```python
 import pyttsx3
 engine = pyttsx3.init() # object creation
 
